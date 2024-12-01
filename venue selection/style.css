@@ -1,0 +1,39 @@
+h1{
+    color:white;
+    
+    width: 400;
+}
+h4{
+    color:white;
+    
+}
+body{
+    background-image: url('ven.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.one{
+    background-color: white;
+    margin-top: 300px;
+}
+.four{
+    margin-top: 250px;
+}
+.two{
+    background-color: white;
+}
+.three{
+    background-color: white;
+}
+.five{
+    background-color: white;
+}
+.six{
+    background-color: white;
+    margin-top: 70px;
+}
+
+.move-down{
+    margin-top: 250px;
+}
